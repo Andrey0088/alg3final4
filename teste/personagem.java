@@ -8,5 +8,5 @@
  * @author alanb
  */
 public class personagem {
-    
+    private int numero;
 }
