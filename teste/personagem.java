@@ -9,4 +9,5 @@
  */
 public class personagem {
     private int numero;
+    private int numero2;
 }
