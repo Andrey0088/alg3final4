@@ -8,5 +8,7 @@
  * @author alanb
  */
 public class raça {
-    
+    private int raça;
+    private int mana;
+    private int vida;
 }
